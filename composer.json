@@ -1,0 +1,12 @@
+{
+    "name": "nikita/part3_module4",
+    "authors": [
+        {
+            "name": "Nikita Babichenko",
+            "email": "babichenkona@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^5.4"
+    }
+}

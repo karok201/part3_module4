@@ -8,4 +8,6 @@ $app->add(new \App\SayHello());
 
 $app->add(new \App\TimesString());
 
+$app->add(new \App\Quest());
+
 $app->run();

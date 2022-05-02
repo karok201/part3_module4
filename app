@@ -6,4 +6,6 @@ $app = new \Symfony\Component\Console\Application('some application');
 
 $app->add(new \App\SayHello());
 
+$app->add(new \App\TimesString());
+
 $app->run();
